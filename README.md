@@ -1,0 +1,1 @@
+Python scripts to be used on dual solar scope. Cameras are pi HQ types operated by Raspberry Pi5 in conjunction with Picamera2 library. Scope 1 for visible light and Scope 2 for Hydrogen alpha (chromosphere)
